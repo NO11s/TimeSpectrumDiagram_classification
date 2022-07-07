@@ -3,15 +3,15 @@
 ## 代码框架
 
 1. process the data
-   + dataset.py
+   + `dataset.py`
 
 2. design the model
-   + model.py
+   + `model.py`
 
 3. train & eval
-   + train.py: train(), eval_one_epoch()
+   + `train.py: train(), eval_one_epoch()`
 
 4. infer & print
-   + infer.py
+   + `infer.py`
 
-5. optional: visualize.py
+5. optional: `visualize.py`
